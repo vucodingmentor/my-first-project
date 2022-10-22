@@ -1,1 +1,1 @@
-do lab 01
+do and edit lab 01
